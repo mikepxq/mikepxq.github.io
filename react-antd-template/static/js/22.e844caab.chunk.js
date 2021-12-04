@@ -1,2 +1,0 @@
-(this["webpackJsonpreact-antd-template"]=this["webpackJsonpreact-antd-template"]||[]).push([[22],{384:function(e,t,a){"use strict";a.r(t);var s=a(145),c=a(49),n=a(0),l=a(5);t.default=function(e){var t,a=e.className,r=void 0===a?"":a;return Object(l.jsx)(n.Suspense,{fallback:Object(l.jsx)(s.a,{}),children:Object(l.jsx)(c.c,{routes:null===(t=e.to)||void 0===t?void 0:t.children,className:r})})}}}]);
-//# sourceMappingURL=22.e844caab.chunk.js.map
